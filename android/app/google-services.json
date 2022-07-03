@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082597996481",
+    "project_id": "travel-and-airplane-5bf26",
+    "storage_bucket": "travel-and-airplane-5bf26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082597996481:android:a80aafcb84a81c0114e140",
+        "android_client_info": {
+          "package_name": "com.travel.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082597996481-1mlt50l39s7e24t0s66r5em7k404dpvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALg38NkL97tiLm-FCJn9VCLqTkTbogpLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082597996481-1mlt50l39s7e24t0s66r5em7k404dpvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
